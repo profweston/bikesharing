@@ -11,35 +11,32 @@ The Tableau story can be found at this link:
 
 Several visualizations were created to represent the NYC Bikesharing Data. First, a line graph was created to represent the length of time that bikes are checked out for all riders. As is evident in the line graph, bikes are rarely used for more than 40 minutes. Most trips are under 30 minutes in length with the most frequent time peaking around 10 or 15 minutes. 
 
-![Line Graph][Resources/Figure1.png]
-
+![Line Graph](Resources/Figure1.png)
 
 This analysis was further aggregated by gender as is represented in the next line graph. This visualization reveals that males check out the bikes for longer periods of time as well as more frequently. 
 
-
-
+![Multiple Line Graph](Resources/Figure2.png)
 
 A heatmap was created to graph the number of bike trips by weekday for each hour of the day. The darker colors indicate heavier usage appears during common commuting times, e.g., 8:00 a.m. and 5 – 6 p.m. during the week. On the weekends the bike usage is mostly consistent throughout the day.
 
-
-
-
+![Heatmap Graph](Resources/Figure3.png)
 
 The heatmap analysis was further aggregated by gender. This visualization reinforces the previous visualization that heavier usage occurs among males during common commute times. The usage by females is must more consistent throughout the each day and week. 
 
-
-
-
+![Second Heatmap Graph](Resources/Figure4.png)
 
 Another heatmap analysis was conducted by looking at the number of bike trips broke down by gender for each day of the week and then aggregated by customer type.  This visualization reinforces that the males dominate the usage during the week but also further reveals that these male customers are in fact subscribers to the bikesharing program.
 
-
+![Third Heatmap Graph](Resources/Figure5.png)
 
 Next, a map was created to display the bike stations where trips originate. The more popular stations are indicated by the size of the circle and the darkness of the blue color. This map reveals that there seems to be a certain part of NYC that is favored for beginning bike trips. 
+
+![Map Graph](Resources/Figure6.png)
 
 
 Lastly, the number of short-term customers and annual subscribers were examined to determine the types of customers we could expect. This data is represented in a pie chart. The proportion of customers to annual subscribers is approximately 1 to 4. 
 
+![Pie Graph](Resources/Figure7.png)
 
 
 ## Summary
