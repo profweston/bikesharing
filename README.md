@@ -11,7 +11,7 @@ The Tableau story can be found at this link:
 
 Several visualizations were created to represent the NYC Bikesharing Data. First, a line graph was created to represent the length of time that bikes are checked out for all riders. As is evident in the line graph, bikes are rarely used for more than 40 minutes. Most trips are under 30 minutes in length with the most frequent time peaking around 10 or 15 minutes. 
 
-[Figure 1]
+![Line Graph][Resources/Figure1.png]
 
 
 This analysis was further aggregated by gender as is represented in the next line graph. This visualization reveals that males check out the bikes for longer periods of time as well as more frequently. 
