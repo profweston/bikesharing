@@ -21,7 +21,7 @@ A heatmap was created to graph the number of bike trips by weekday for each hour
 
 ![Heatmap Graph](Resources/Figure3.png)
 
-The heatmap analysis was further aggregated by gender. This visualization reinforces the previous visualization that heavier usage occurs among males during common commute times. The usage by females is must more consistent throughout the each day and week. 
+The heatmap analysis was further aggregated by gender. This visualization reinforces the previous visualization that heavier usage occurs among males during common commute times. The usage by females is must more consistent throughout each day and week. 
 
 ![Second Heatmap Graph](Resources/Figure4.png)
 
